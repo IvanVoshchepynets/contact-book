@@ -117,7 +117,7 @@ contact-book/
 
 ## Технології
 
-- [Next.js (App Router)])
+- [Next.js (App Router)]
 - [React]
 - [Tailwind CSS]
 - [shadcn/ui]
