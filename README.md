@@ -115,7 +115,7 @@ contact-book/
 ├── tailwind.config.ts
 └── README.md
 
-## 🧰 Технології
+## Технології
 
 - [Next.js (App Router)])
 - [React]
